@@ -1,3 +1,2 @@
 lopocs
 meg egy lopocs
-harom lopocs
